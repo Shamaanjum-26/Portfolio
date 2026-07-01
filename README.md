@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 
 ## 🌐 Live Demo
 
-👉 **View Portfolio:** https://yourusername.github.io/repository-name/
+👉 **View Portfolio:**
 
 ## Tech Stack
 
